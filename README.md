@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=SSAKTHITSELVAN&color=blue)
 ---
 
 # 📚 23AD601 — Optimization Techniques in Machine Learning
